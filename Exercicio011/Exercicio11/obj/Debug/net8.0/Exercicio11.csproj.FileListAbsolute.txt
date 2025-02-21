@@ -1,0 +1,28 @@
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.exe
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.deps.json
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.runtimeconfig.json
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.dll
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.pdb
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfoInputs.cache
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfo.cs
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.dll
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\refint\Exercicio11.dll
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.pdb
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.genruntimeconfig.cache
+D:\Programação\C#\Curso Udemy\Seção 3\Rascunhos\Exercicio11\Exercicio11\obj\Debug\net8.0\ref\Exercicio11.dll
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.exe
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.deps.json
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.runtimeconfig.json
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.dll
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\bin\Debug\net8.0\Exercicio11.pdb
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfoInputs.cache
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.AssemblyInfo.cs
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.dll
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\refint\Exercicio11.dll
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.pdb
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\Exercicio11.genruntimeconfig.cache
+D:\Programação\C#\Curso Udemy\Seção 3\Exercicios propostos\Exercicio11\Exercicio11\obj\Debug\net8.0\ref\Exercicio11.dll
