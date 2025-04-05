@@ -1,0 +1,14 @@
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\bin\Debug\net8.0\Exercicio032.exe
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\bin\Debug\net8.0\Exercicio032.deps.json
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\bin\Debug\net8.0\Exercicio032.runtimeconfig.json
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\bin\Debug\net8.0\Exercicio032.dll
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\bin\Debug\net8.0\Exercicio032.pdb
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\Exercicio032.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\Exercicio032.AssemblyInfoInputs.cache
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\Exercicio032.AssemblyInfo.cs
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\Exercicio032.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\Exercicio032.dll
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\refint\Exercicio032.dll
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\Exercicio032.pdb
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\Exercicio032.genruntimeconfig.cache
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio032\Exercicio032\obj\Debug\net8.0\ref\Exercicio032.dll
