@@ -1,0 +1,14 @@
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\bin\Debug\net8.0\Exercicio033.exe
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\bin\Debug\net8.0\Exercicio033.deps.json
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\bin\Debug\net8.0\Exercicio033.runtimeconfig.json
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\bin\Debug\net8.0\Exercicio033.dll
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\bin\Debug\net8.0\Exercicio033.pdb
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\Exercicio033.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\Exercicio033.AssemblyInfoInputs.cache
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\Exercicio033.AssemblyInfo.cs
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\Exercicio033.csproj.CoreCompileInputs.cache
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\Exercicio033.dll
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\refint\Exercicio033.dll
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\Exercicio033.pdb
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\Exercicio033.genruntimeconfig.cache
+D:\Programacao\C#\Curso Udemy\Seção 6\Exericicios\Exercicio033\Exercicio033\obj\Debug\net8.0\ref\Exercicio033.dll
